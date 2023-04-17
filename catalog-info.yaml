@@ -3,7 +3,7 @@ kind: Component
 metadata:
   annotations:
     backstage.io/kubernetes-id: my-kubernetes-component-v2
-  name: test-kubernetes-component-v2:
+  name: test-kubernetes-component-v2
   lifecycle: production
   owner: my-team
   type: service
